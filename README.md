@@ -1,6 +1,7 @@
 <h1 align="center">Hola! 👋, soy Juan Moreno</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p>Soy Fullstack Web Developer recientemente graduado en Soy Henry 💻 cuento con capacidades básicas para crear, mantener y optimizar sitios web, incorporando de manera correcta las diferentes Librerias y FrameWorks a partir de código limpio, de manera ágil y eficaz, desarrollando soluciones
+<p>Soy Fullstack Web Developer recientemente graduado en Soy Henry</p>
+<p>Cuento con capacidades básicas para crear, mantener y optimizar sitios web, incorporando de manera correcta las diferentes Librerias y FrameWorks a partir de código limpio, de manera ágil y eficaz, desarrollando soluciones
 totalmente escalables y optimizadas.</p>
 
 - BGTA - COLOMBIA
